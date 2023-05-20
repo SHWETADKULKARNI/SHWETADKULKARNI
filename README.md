@@ -1,3 +1,4 @@
+![logo](https://github.com/SHWETADKULKARNI/SHWETADKULKARNI/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shweta Kulkarni</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
