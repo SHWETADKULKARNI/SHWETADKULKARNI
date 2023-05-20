@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Innomatics Research Labs as DS Intern**
 
-- 🌱 I’m currently learning **NLP,Deep Learning**
+- 🌱 I’m currently learning **NLP , Deep Learning**
 
 - 🤝 I’m looking for help with **Deep Learning Projects**
 
