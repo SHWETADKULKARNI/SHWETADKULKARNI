@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadkulkarni" /> </p>
 
-- 🔭 I’m currently working on **Innomatics Research Labs as DS Intern**
+- 🔭 I’m currently working at **Innomatics Research Labs as DS Intern**
 
 - 🌱 I’m currently learning **NLP , Deep Learning**
 
